@@ -31,8 +31,9 @@
   <img src="https://img.shields.io/badge/TypeScript-87CEEB?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-BA55D3?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-9370DB?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F08080?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F08080?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 </div>
 
 ---
