@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Geovanna!;Hello+World!;Dev+apaixonada+por+tecnologia+💻;React,+TypeScript+e+um+café+do+lado+☕️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hello+World!;Olá%2C+meu+nome+é+Geovanna!;Dev+apaixonada+por+tecnologia+💻;React,+TypeScript+e+um+café+do+lado+☕️" alt="Typing SVG" />
 </p>
 
 
@@ -14,9 +14,11 @@
 
 ### 💖 Um pouquinho sobre mim:
 
-- 👩‍💻 Atualmente focada em front-end (React, TypeScript) e aprendendo back-end com C# e Python 🐍  
+- 👩🏻‍🎓 Graduanda em Sistemas de Informação pelo IFG
+- 👩‍💻 Atualmente focada em front-end (React, TypeScript) e aprendendo back-end com C# e Python 🐍
+- 📃 Trabalho de conclusão de curso com o tema relacionado a UX em plataformas educacionais 
 - 🌱 Estudando APIs, banco de dados e design de interfaces    
-- ✨ Sonho em criar apps que tragam conforto e alegria 
+- ✨ Bolsista no projeto MENINAS EM STEM GOIÁS, estudos de robótica para competições 🤖
 
 ---
 
